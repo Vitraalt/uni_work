@@ -1,0 +1,14 @@
+C:\Users\Haruwatat\source\repos\HVM\HVM\bin\Debug\net8.0\HVM.exe
+C:\Users\Haruwatat\source\repos\HVM\HVM\bin\Debug\net8.0\HVM.deps.json
+C:\Users\Haruwatat\source\repos\HVM\HVM\bin\Debug\net8.0\HVM.runtimeconfig.json
+C:\Users\Haruwatat\source\repos\HVM\HVM\bin\Debug\net8.0\HVM.dll
+C:\Users\Haruwatat\source\repos\HVM\HVM\bin\Debug\net8.0\HVM.pdb
+C:\Users\Haruwatat\source\repos\HVM\HVM\obj\Debug\net8.0\HVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haruwatat\source\repos\HVM\HVM\obj\Debug\net8.0\HVM.AssemblyInfoInputs.cache
+C:\Users\Haruwatat\source\repos\HVM\HVM\obj\Debug\net8.0\HVM.AssemblyInfo.cs
+C:\Users\Haruwatat\source\repos\HVM\HVM\obj\Debug\net8.0\HVM.csproj.CoreCompileInputs.cache
+C:\Users\Haruwatat\source\repos\HVM\HVM\obj\Debug\net8.0\HVM.dll
+C:\Users\Haruwatat\source\repos\HVM\HVM\obj\Debug\net8.0\refint\HVM.dll
+C:\Users\Haruwatat\source\repos\HVM\HVM\obj\Debug\net8.0\HVM.pdb
+C:\Users\Haruwatat\source\repos\HVM\HVM\obj\Debug\net8.0\HVM.genruntimeconfig.cache
+C:\Users\Haruwatat\source\repos\HVM\HVM\obj\Debug\net8.0\ref\HVM.dll
